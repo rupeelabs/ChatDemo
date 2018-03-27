@@ -1,7 +1,7 @@
-#chat by socket.io
+# chat by socket.io
 
-#Usage
+# Usage
 
-## node index.js
+### node index.js
 
-## 127.0.0.1:3000
+### 127.0.0.1:3000
